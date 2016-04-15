@@ -12,4 +12,4 @@
 raio = 0
 area = 0
 
-raio
+raio = input
