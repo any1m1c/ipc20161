@@ -7,4 +7,4 @@
 #
 #
 
-#Faça um programa que
+#Faça um programa que calcule
