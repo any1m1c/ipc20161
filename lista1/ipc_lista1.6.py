@@ -15,4 +15,4 @@ area = 0
 raio = input("Entre com o valor do raio: ")
 area = 3.14 * raio*raio
 
-print "Valor da área do círculo: %d m²"
+print "Valor da área do círculo: %d m²" %
