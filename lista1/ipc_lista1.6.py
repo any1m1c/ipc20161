@@ -7,7 +7,7 @@
 #
 #
 
-#Faça um programa que peça o raio de um círculo, 
+#Faça um programa que peça o raio de um círculo, calcule
 
 
 
