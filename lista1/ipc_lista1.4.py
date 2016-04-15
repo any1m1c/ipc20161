@@ -15,6 +15,6 @@ nota4 - int(input("Digite a quarta note do bismestre: "))
 
 
 print
-media = (nota1+nota2+nota3+nota4)/4.0
+media = (nota1+nota2+nota3+nota4)/ 4.0
 
 print" A sua média é: %s" %media
