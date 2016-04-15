@@ -7,4 +7,4 @@
 #
 #
 
-#Faça um programa que calcule
+#Faça um programa que calcule a área
