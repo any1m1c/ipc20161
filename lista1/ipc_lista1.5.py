@@ -8,4 +8,4 @@
 
 #Faça um programa que converta metros para centímetros.
 
-metros = input("Digite o valor em metros que deseja
+metros = input("Digite o valor em metros que deseja converter 
