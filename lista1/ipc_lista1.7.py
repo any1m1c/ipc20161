@@ -11,4 +11,4 @@
 
 altura = input("Digite a altura do quadrado em metros: ")
 largura = input("Digite a largura do quadrado em metros: ")
-a = 
+a = altura
