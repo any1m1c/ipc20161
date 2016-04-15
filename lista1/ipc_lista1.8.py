@@ -5,4 +5,4 @@
 #
 #
 #
-#Faça um programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule
+#Faça um programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e
