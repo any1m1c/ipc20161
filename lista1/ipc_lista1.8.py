@@ -5,4 +5,4 @@
 #
 #
 #
-#Faça um programa que pergunte quanto você ganha pro 
+#Faça um programa que pergunte quanto você ganha por hora
