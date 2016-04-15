@@ -10,7 +10,7 @@
 nota1 = int(input("Digite a primeira nota do bimestre: "))
 nota2 = int(input("Digite a segunda nota do bimestre: "))
 nota3 = int(input("Digite a terceira nota do bismestre: "))
-nota4 - int(input("Digite a quarta note do bismestre
+nota4 - int(input("Digite a quarta note do bismestre: "
 
 
 
