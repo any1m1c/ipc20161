@@ -9,4 +9,4 @@
 #Faça um programa que converta metros para centímetros.
 
 metros = input("Digite o valor em metros que deseja converter em centímetros: ")
-centimetros = metros
+centimetros = metros *
