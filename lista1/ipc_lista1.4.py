@@ -9,6 +9,9 @@
 nota1 = int(input("Digite a primeira nota do bimestre: ")
 nota2 = int(input("Digite a segunda nota do bimestre: ")
 nota3 = int(input("Digite a terceira nota do bismestre: ")
+
+
+
 print
 media = (nota1+nota2+nota3+nota4)/4.0
 
