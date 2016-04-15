@@ -7,4 +7,4 @@
 #
 #
 
-#Faça um programa que calcule a área de um quadrado em 
+#Faça um programa que calcule a área de um quadrado em metros
