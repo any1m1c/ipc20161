@@ -5,4 +5,4 @@
 #
 #
 #
-#Faça um programa que pergunte
+#Faça um programa que pergunte quanto
