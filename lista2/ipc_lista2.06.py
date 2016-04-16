@@ -16,7 +16,7 @@ if num1>num2
         print ("O primeiro")
 if num2>num1
     if num2>num3:
-        print ("")
+        print ("O segundo")
 if num3>num1
     if num3>num2:
         print ("")
