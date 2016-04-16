@@ -19,6 +19,7 @@ if ("F" == sexo):
 else:
   resultado = (72.7*h) - 58
 
-if(peso > resultado):  
+if(peso > resultado):
+  print "Você está acima do peso,
   
   
