@@ -15,7 +15,8 @@ metros = input("Entre como o tamnho em metros quadrdados da are a ser pintada: "
 MetrosLtas = metros/6
 if (MetrosLatas <= 0):
   MetrosLatas = 1
-/
+
+QntLatas18 = math.floor(MetrosLats / 18+(18*0.10))
 /
 /
 /
