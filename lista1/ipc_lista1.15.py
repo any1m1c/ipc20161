@@ -21,7 +21,7 @@
 
     #Obs.: Salário Bruto - Descontos = Salário Líquido. 
 
-qHora = input("Quanto você ganha por hora: ")
+qHora = input("Quanto voce ganha por hora: ")
 hT = input("Quantas horas você trabalhou: ")
 
 SalBruto = qHora
