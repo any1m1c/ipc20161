@@ -6,6 +6,6 @@
 #
 #
 #Faça um programa para  a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar:
-#--A mensagem "Aprovado", se a média alcançada
+#--A mensagem "Aprovado", se a média alcançada for maior pu giual
 #--A mensagem "Reprovado'
 #--A mensagem "Aprovado"
