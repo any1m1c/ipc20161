@@ -1,5 +1,5 @@
 #ipc_lista1.10
-#Professor: 
+#Professor: Jucimar Junior
 #Faça um programa que peça a temperatura em graus Celsius, transforme e mostre em graus farenheit.
 
 c = input("Entre com a temperatura em graus Celsius: ")
