@@ -8,7 +8,7 @@
 #
 import math
 
-#Calculo para verificar quantas latas/
+#Calculo para verificar quantas latas/galoes de tintas sera necessarias e o valor delas
 
 metros =
 /
