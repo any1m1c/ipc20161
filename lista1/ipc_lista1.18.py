@@ -9,4 +9,4 @@
 
 arquivo = input("Informe o tamanho do arquivo para download (em MB): ")
 print
-velocidade = input
+velocidade = input("Informe a velocidade de sua internet (em Mbps): ")
