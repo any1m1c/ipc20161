@@ -22,5 +22,5 @@ else:
 if(peso > resultado):
   print "Você está acima do peso, seu peso ideal e %.1f kg" % (resultado)
 else:
-  print "Voce está abaxio do peso, seu peso ideal e %.1f kg" %
+  print "Voce está abaxio do peso, seu peso ideal e %.1f kg" % (resultado)
   
