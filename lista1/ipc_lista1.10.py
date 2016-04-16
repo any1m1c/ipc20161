@@ -1,2 +1,2 @@
 #ipc_lista1.10
-#faça um 
+#faça um programa que 
