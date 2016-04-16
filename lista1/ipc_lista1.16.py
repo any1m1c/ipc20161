@@ -5,4 +5,4 @@
 #
 #
 #
-#Faça um programa para uma loja de tintas
+#Faça um programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados 
