@@ -11,5 +11,5 @@
 #Peça o peso da pessoa e informe se ela está dentro, acima ou abaixo do peso.
 
 altura = input("Entre com sua altura: ")
-sexo = str
+sexo = str(raw_input(Sexo M ou F: "))
 peso - inpuy
