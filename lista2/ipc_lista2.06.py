@@ -5,4 +5,4 @@
 #
 #
 #
-#Faça um programa que leia três
+#Faça um programa que leia três números e mostre
