@@ -30,5 +30,7 @@ else:
   
 if (QntLatas18 <= 0 or QntGaloes36 <= or QntGaloes < 0):
   QntGaloes36 = 1
+  Qntlatas18 = 1
+  QntGaloes = 1
 
 /
