@@ -23,5 +23,9 @@ resto = MetrosLatas % 18
 
 if (resto > 0 and resto <= 3.6):
   QntGaloes = 1
+elif (resto == 0)
+QntGaloes = 0
+else:
+  QntGaloes = math.floot(
 /
 /
