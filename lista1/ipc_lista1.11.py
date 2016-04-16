@@ -12,6 +12,6 @@
 
 import math
 
-num1
-num2
-numReal
+num1 = input
+num2 = input
+numReal = input
