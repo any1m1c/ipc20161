@@ -19,4 +19,4 @@ else:
     else:
          print "Sexo Invalido. \n"
 
-Enter = input (Tecle Enter*
+Enter = input (Tecle Enter* para sair
