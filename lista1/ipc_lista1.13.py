@@ -10,13 +10,13 @@
 #Para mulheres: (62.1*h) - 44.7 (h = altura)
 #Peça o peso da pessoa e informe se ela está dentro, acima ou abaixo do peso.
 
-altura = input("Entre com sua altura: ")
+h = input("Entre com sua altura: ")
 sexo = str(raw_input(Sexo M ou F: "))
 peso - input("Qual seu peso: ")
 
 if ("F" == sexo):
-  resultado = (62.1*altura) - 44.7
+  resultado = (62.1*h) - 44.7
 
 else:
-  resultado = (72.7 * altura) - 58
+  resultado = (72.7*h) - 58
   
