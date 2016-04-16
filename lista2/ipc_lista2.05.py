@@ -11,4 +11,4 @@
 #--A mensagem "Aprovado com Distincao", se a média for igual a dez.
 
 n1 = int(input("Insira a primeira nota
-n2 = int(input
+n2 = int(input("Insira
