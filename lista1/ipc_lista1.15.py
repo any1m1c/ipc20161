@@ -27,7 +27,7 @@ hT = input("Quantas horas você trabalhou: ")
 SalBruto = qHora
 
 ir = (11/100.0 * salBruto)
-inss = (8/100.0m* SalBruto)
+inss = (8/100.0 * SalBruto)
 sindicato = (5/100.0 * SalBruto)
 
 vT = ir + sindicato
