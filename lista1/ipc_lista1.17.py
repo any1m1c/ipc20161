@@ -17,7 +17,7 @@ if (MetrosLatas <= 0):
   MetrosLatas = 1
 
 QntLatas18 = math.floor(MetrosLats / 18+(18*0.10))
-/
+QntGaloes36 = math.floor(MetrosLatas / 3.6+(3.6*0.10))
 /
 /
 /
