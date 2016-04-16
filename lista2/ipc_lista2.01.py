@@ -5,4 +5,4 @@
 #
 #
 #
-#Faça um programa que peça dois números e
+#Faça um programa que peça dois números e imprima
