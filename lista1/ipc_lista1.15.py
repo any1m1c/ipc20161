@@ -16,4 +16,4 @@ inss = (8/100.0m* SalBruto)
 sindicato = (5/100.0 * SalBruto)
 
 vT = ir + sindicato
-SalLiq = SalBruto
+SalLiq = SalBruto - vT
