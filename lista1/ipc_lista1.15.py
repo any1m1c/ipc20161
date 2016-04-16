@@ -21,3 +21,4 @@ SalLiq = SalBruto - vT
 print "Seu salário bruto e: ",SalBruto
 
 print "Valor dos impostos"
+print "-------------------"
