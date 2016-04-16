@@ -7,5 +7,5 @@
 #
 #Faça um programa que peça 2 numeros inteiros e um numero real. Calcule e mostre:
 #a- o produto do dobro
-#b- a
+#b- a soma do triplo
 #c- o 
