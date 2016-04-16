@@ -1,2 +1,2 @@
 #ipc_lista1.14
-#Professor: Jucimar
+#Professor: Jucimar Junior
