@@ -6,7 +6,7 @@
 #
 #
 #
-qHora =
-hT
+qHora = input(
+hT = input(
 
 SalBruto = qHora
