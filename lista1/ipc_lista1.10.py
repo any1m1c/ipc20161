@@ -2,3 +2,4 @@
 #Faça um programa que peça a temperatura em graus Celsius, transforme e mostre em graus farenheit.
 
 c = input("Entre com a temperatura em graus Celsius: ")
+vt = 
