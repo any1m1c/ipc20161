@@ -11,4 +11,4 @@ F = input("Entre com a temperatura em graus Farenheit: ")
 
 C = ((F-32) / 1.8)
 
-print "A temperatura em Celsius é: 
+print "A temperatura em Celsius é: %;1f" %
