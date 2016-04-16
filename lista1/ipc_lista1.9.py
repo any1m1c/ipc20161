@@ -7,4 +7,4 @@
 #
 #Faça um programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius.
 
-F = input("Entre com a temperatura em graus
+F = input("Entre com a temperatura em graus Farenheit
