@@ -6,6 +6,6 @@
 #
 #
 #Faça um programa que peça 2 numeros inteiros e um numero real. Calcule e mostre:
-#a- o produto do dobro do primeiro
+#a- o produto do dobro do primeiro com metade do segundo
 #b- a soma do triplo do primeiro
 #c- o terceiro elevado ao cubo
