@@ -12,4 +12,4 @@
 if peso > 50:
   excesso = peso - 50
   multa = excesso * 4.00
-  print "Você excedeu" ,excesso, "kg do numero permitido de peixes \n O valor \de sua multa e de
+  print "Você excedeu" ,excesso, "kg do numero permitido de peixes \n O valor \de sua multa e de R$", multa
