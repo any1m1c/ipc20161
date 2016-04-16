@@ -14,4 +14,4 @@ if (letra == "a" or letra == "e" or letra == "i" or letra == "o" or letra = "u")
 else:
   print (letra,"euma consoante")
 
-Enter = input
+Enter = input ("Tecle Enter*
