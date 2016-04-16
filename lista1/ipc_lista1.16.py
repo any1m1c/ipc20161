@@ -17,5 +17,5 @@ capacidadeL = 18
 latas = litros / capacidadeL
 total = latas * precoL
 
-print
-print
+print"Você usara", latas, "latas de tinta"
+print""
