@@ -13,4 +13,5 @@ litros = metros/3
 
 PrecoL= 80.0
 capacidadeL = 18
-/
+
+latas = litros / capacidadeL
