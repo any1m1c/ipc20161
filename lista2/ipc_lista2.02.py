@@ -9,4 +9,4 @@
 
 valor = float(input("Informe um numero: "))
 
-if (valor > 0
+if (valor > 0):
