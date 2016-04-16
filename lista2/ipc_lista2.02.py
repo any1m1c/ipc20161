@@ -12,4 +12,4 @@ valor = float(input("Informe um numero: "))
 if (valor > 0):
   print ("O numero digitado é positivo")
 else:
-  print ("O numero
+  print ("O numero digitado é
