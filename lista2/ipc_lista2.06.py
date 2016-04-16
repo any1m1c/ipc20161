@@ -10,3 +10,9 @@
 number1 = int(input("Insira um numero: ")
 number2 = int(input("Insira outro numero: ")
 number3 = int(input("Insira mais um numero: ")
+
+if
+
+if
+
+if
