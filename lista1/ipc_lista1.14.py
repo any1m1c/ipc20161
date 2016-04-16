@@ -11,5 +11,5 @@
 
 if peso > 50:
   excesso = peso - 50
-  multa = 
+  multa = excesso * 4.00
   print
