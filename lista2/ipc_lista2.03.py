@@ -14,7 +14,7 @@ if (sexo == "F"):
  print "Sexo Feminino. \n"
  eliif (sexo == "M"):
   print "Sexo Masculino. \n"
-    else:
+ else:
          print "Sexo Invalido. \n"
 
 Enter = input (Tecle Enter* para sair")
