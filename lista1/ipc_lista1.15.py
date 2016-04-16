@@ -25,4 +25,4 @@ print '------------------------"
 print "Valor dos impostos"
 print "-------------------------"
 print "IR: ",ir
-print "INSS: ",
+print "INSS: ",inss
