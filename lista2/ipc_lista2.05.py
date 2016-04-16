@@ -11,3 +11,4 @@
 #--A mensagem "Aprovado com Distincao", se a média for igual a dez.
 
 n1 = int
+n2 = int
