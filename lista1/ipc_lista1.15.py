@@ -15,4 +15,4 @@ ir = (11/100.0 * salBruto)
 inss = (8/100.0m* SalBruto)
 sindicato = (5/100.0 * SalBruto)
 
-
+vT = ir + sindicato
