@@ -27,4 +27,8 @@ elif (resto == 0)
 QntGaloes = 0
 else:
   QntGaloes = math.floor(resto / 3.6+(3.6*0.10))
+  
+if (QntLatas18 <= 0 or QntGaloes36 <= or QntGaloes < 0):
+  QntGaloes36 = 1
+
 /
