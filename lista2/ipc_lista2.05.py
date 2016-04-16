@@ -15,6 +15,6 @@ n2 = int(input("Insira a segunda nota: "))
 media = (n1+n2)/2
 if media == 10:
 
-elif media 
+elif media >= 7:
 
 else:
