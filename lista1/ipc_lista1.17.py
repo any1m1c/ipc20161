@@ -40,4 +40,4 @@ PrecoGaloes = QntGaloes * 25
 
 PrecoTimo = PrecoLatas + PrecoGaloes
 
-print ("\n Quantidade de latas: %d latas. Preco latas: %.2f reais. \n Quantidades galoes: %d galoes.) % (QntLatas18,PrecoLatas18,QntGaloes36,PrecoGaloes36,QntLatas,QntGaloes,PrecoTimo)
+print ("\n Quantidade de latas: %d latas. Preco latas: %.2f reais. \n Quantidades galoes: %d galoes. Preco galoes: %.2f. \n Solucao Otima, latas: %d e galoes: %d Valor:%.2f") % (QntLatas18,PrecoLatas18,QntGaloes36,PrecoGaloes36,QntLatas,QntGaloes,PrecoTimo)
