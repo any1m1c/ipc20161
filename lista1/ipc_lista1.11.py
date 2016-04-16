@@ -16,3 +16,4 @@ num1 = input("Digite o primeiro numero inteiro: ")
 num2 = input("Digite o segundo numero inteiro: ")
 numReal = input("Dgite um numero real: )
 resultado1 = num1 * 2 * (num2 / 2)
+print "O produto do dobro do primeiro com a metdade do segundo
