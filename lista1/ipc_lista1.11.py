@@ -12,6 +12,6 @@
 
 import math
 
-num1 = input("Digite o primeironumero inteiro
-num2 = input("Digite
+num1 = input("Digite o primeiro numero inteiro
+num2 = input("Digite o segundo numero inteiro
 numReal = input("Dgite
