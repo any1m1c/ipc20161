@@ -13,6 +13,6 @@ number3 = int(input("Insira mais um numero: ")
 
 if n1>n2
 
-if
+if n2>n1
 
 if
