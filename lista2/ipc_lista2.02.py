@@ -5,4 +5,4 @@
 #
 #
 #
-#Faça um programa que peça um valor e mostre na tela se o valor
+#Faça um programa que peça um valor e mostre na tela se o valor é
