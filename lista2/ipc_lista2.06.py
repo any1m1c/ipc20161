@@ -11,7 +11,7 @@ number1 = int(input("Insira um numero: ")
 number2 = int(input("Insira outro numero: ")
 number3 = int(input("Insira mais um numero: ")
 
-if n1>n2
+if num1>n2
 
 if n2>n1
 
