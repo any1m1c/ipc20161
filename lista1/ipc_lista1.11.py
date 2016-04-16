@@ -6,6 +6,6 @@
 #
 #
 #Faça um programa que peça 2 numeros inteiros e um numero real. Calcule e mostre:
-#a-o
-#b-a
-#c-o
+#a- o
+#b- a
+#c- o 
