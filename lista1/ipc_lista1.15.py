@@ -26,7 +26,7 @@ hT = input("Quantas horas voce trabalhou: ")
 
 SalBruto = qHora
 
-ir = (11/100.0 * salBruto)
+ir = (11/100.0 * SalBruto)
 inss = (8/100.0 * SalBruto)
 sindicato = (5/100.0 * SalBruto)
 
