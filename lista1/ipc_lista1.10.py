@@ -5,4 +5,4 @@ c = input("Entre com a temperatura em graus Celsius: ")
 vt = c * 1.8
 f = vt + 32
 
-print "
+print "A temperatura em
