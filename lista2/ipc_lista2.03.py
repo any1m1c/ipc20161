@@ -12,4 +12,4 @@ sexo
 sexo = raw_input("Informe seu sexo F para Feminino e M para Masculino: ")
 
 if (sexo == "M"):
- print
+ print ("Sexo 
