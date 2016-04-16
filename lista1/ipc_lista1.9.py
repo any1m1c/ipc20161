@@ -9,4 +9,4 @@
 
 F = input("Entre com a temperatura em graus Farenheit: ")
 
-C = 
+C = ((F-32) / 1.8)
