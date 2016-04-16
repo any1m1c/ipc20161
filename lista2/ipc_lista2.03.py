@@ -12,7 +12,6 @@ sexo = raw_input("Informe o sexo F para Feminino e M para Masculino: ")
 
 if (sexo == "F"):
  print "Sexo Feminino. \n"
-else: 
     if (sexo == "M"):
          print "Sexo Masculino. \n"
     else:
