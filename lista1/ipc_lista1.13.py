@@ -6,5 +6,5 @@
 #
 #
 #Tendo como dados de entrada a altura e o sexo de uma pessoa, constru um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
-#Para homens:
+#Para homens: (72.7*h) - 58
 #Para mulheres:
