@@ -7,9 +7,9 @@
 #
 #Faça um programa que leia três números e mostre o maior deles.
 
-number1 = int(input("Insira um numero: ")
-number2 = int(input("Insira outro numero: ")
-number3 = int(input("Insira mais um numero: ")
+num1 = int(input("Insira um numero: ")
+num2 = int(input("Insira outro numero: ")
+num3 = int(input("Insira mais um numero: ")
 
 if num1>n2
 
