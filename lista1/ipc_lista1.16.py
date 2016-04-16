@@ -15,3 +15,4 @@ PrecoL= 80.0
 capacidadeL = 18
 
 latas = litros / capacidadeL
+total = latas * precoL
