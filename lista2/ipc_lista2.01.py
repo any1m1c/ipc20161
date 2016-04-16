@@ -8,4 +8,4 @@
 #Faça um programa que peça dois números e imprima o maior deles.
 
 num1 = float(input("Informe um número: "))
-num2 = float(input(
+num2 = float(input("Informe
