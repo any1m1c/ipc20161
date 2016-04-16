@@ -9,4 +9,4 @@
 QntHora =
 hT
 
-SalBruto
+SalBruto = qHora
