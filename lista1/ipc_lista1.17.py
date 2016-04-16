@@ -26,6 +26,5 @@ if (resto > 0 and resto <= 3.6):
 elif (resto == 0)
 QntGaloes = 0
 else:
-  QntGaloes = math.floot(
-/
+  QntGaloes = math.floor(resto / 3.6+(3.6*0.10))
 /
