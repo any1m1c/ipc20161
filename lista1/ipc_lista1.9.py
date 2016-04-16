@@ -5,4 +5,4 @@
 #
 #
 #
-#Faça um programa que peça a temperatura em graus Fahrenheit
+#Faça um programa que peça a temperatura em graus Fahrenheit, transforme
