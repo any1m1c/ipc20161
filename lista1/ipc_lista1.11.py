@@ -14,4 +14,4 @@ import math
 
 num1 = input("Digite o primeiro numero inteiro
 num2 = input("Digite o segundo numero inteiro
-numReal = input("Dgite
+numReal = input("Dgite um numero real:
