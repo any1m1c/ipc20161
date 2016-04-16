@@ -9,4 +9,4 @@
 
 print("Bem Vindo ao programa da loja de Tintas")
 metros =input("Digite a quantidade de metros quadrados a serem pintados: ")
-litros =
+litros = metros/3
