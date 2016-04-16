@@ -18,7 +18,8 @@ sindicato = (5/100.0 * SalBruto)
 vT = ir + sindicato
 SalLiq = SalBruto - vT
 
+print "------------------------"
 print "Seu salário bruto e: ",SalBruto
 
 print "Valor dos impostos"
-print "-------------------"
+print "------------------------"
