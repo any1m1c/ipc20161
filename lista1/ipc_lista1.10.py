@@ -1,2 +1,2 @@
 #ipc_lista1.10
-#faça um programa que 
+#faça um programa que peça a temperatura
