@@ -8,3 +8,5 @@
 #
 QntHora =
 hT
+
+SalBruto
