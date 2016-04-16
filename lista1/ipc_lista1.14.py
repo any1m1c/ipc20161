@@ -10,6 +10,6 @@
 #Controle do rendimentoi diário de João
 
 if peso > 50:
-  excesso
+  excesso = peso - 50
   multa = 
   print
