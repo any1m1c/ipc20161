@@ -17,5 +17,5 @@ peso - input("Qual seu peso: ")
 if
 
 else:
-  resultado = 
+  resultado = (72.7 * altura) - 58
   
