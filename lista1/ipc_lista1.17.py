@@ -37,4 +37,6 @@ PrecoLatas18 = QntLatas18 * 80
 PrecoGaloes36 = QntGaloes36 * 25
 PrecoLatas = QntLatas = QntLatas * 80
 PrecoGaloes = QntGaloes * 25
+
+PrecoTimo = PrecoLatas + PrecoGaloes
 /
