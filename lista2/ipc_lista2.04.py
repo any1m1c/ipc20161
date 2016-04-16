@@ -11,3 +11,4 @@ letra = raw_input("INforme uma letra: ")
 
 if (letra == "a" or letra == "e" or letra == "i" or letra == "o" or letra = "u"):
   print (letra, "e uma vogal")
+else:  
