@@ -27,4 +27,4 @@ print "-------------------------"
 print "IR: ",ir
 print "INSS: ",inss
 print"--------------------------"
-print""
+print"Se salario liquido e: ",
