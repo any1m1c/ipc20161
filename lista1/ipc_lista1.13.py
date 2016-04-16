@@ -10,6 +10,6 @@
 #Para mulheres: (62.1*h) - 44.7 (h = altura)
 #Peça o peso da pessoa e informe se ela está dentro, acima ou abaixo do peso.
 
-altura = input
+altura = input("Entre com sua altura: ")
 sexo = str
 peso - inpuy
