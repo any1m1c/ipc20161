@@ -9,3 +9,5 @@
 #--A mensagem "Aprovado", se a média alcançada for maior ou igual a sete;
 #--A mensagem "Reprovado", se a média for menor que sete;
 #--A mensagem "Aprovado com Distincao", se a média for igual a dez.
+
+n1 = int
