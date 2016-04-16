@@ -7,6 +7,6 @@
 #
 #
 qHora = input("Quanto você ganha por hora: ")
-hT = input(
+hT = input("Quantas horas você trabalhou: ")
 
 SalBruto = qHora
