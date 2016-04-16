@@ -7,4 +7,4 @@
 #
 #Faça um programa que peça dois números e imprima o maior deles.
 
-num1 = float
+num1 = float(input(
