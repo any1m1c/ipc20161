@@ -18,4 +18,4 @@ sindicato = (5/100.0 * SalBruto)
 vT = ir + sindicato
 SalLiq = SalBruto - vT
 
-print "", SalBruto
+print "Seu salário bruto e: ", SalBruto
