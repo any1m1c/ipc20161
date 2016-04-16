@@ -16,3 +16,4 @@ if (sexo == "M"):
 else: 
     if (sexo == "F"):
          print ("Sexo feminino.")
+    else:
