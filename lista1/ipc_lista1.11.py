@@ -20,4 +20,4 @@ print "O produto do dobro do primeiro com a metdade do segundo = ", resultado1
 resultado2 = num1 * 3 + numReal
 print "A soma do triplo do primeiro com o terceiro = ", resultado2
 resultado3 = numReal ** 3
-print "O terceiro elevado ao cubo"
+print "O terceiro elevado ao cubo", resultado3
