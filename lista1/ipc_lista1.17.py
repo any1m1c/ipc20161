@@ -8,6 +8,12 @@
 #
 import math
 
-#Calculo para verificar
+#Calculo para verificar quantas latas/
 
 metros =
+/
+/
+/
+/
+/
+/
