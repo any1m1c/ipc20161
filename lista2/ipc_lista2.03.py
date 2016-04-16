@@ -6,4 +6,4 @@
 #
 #
 
-#Faça um programa que verifique se uma letra
+#Faça um programa que verifique se uma letra digitada
