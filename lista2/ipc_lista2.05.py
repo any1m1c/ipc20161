@@ -5,4 +5,4 @@
 #
 #
 #
-#Faça um programa para  a leitura de duas notas parciais de um aluno.
+#Faça um programa para  a leitura de duas notas parciais de um aluno. O programa deve calcular
