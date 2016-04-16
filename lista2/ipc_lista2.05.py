@@ -18,4 +18,4 @@ if media == 10:
 elif media >= 7:
     print ("")
 else:
-    print
+    print ("")
