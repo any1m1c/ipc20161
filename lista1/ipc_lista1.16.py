@@ -11,8 +11,11 @@ print("Bem Vindo ao programa da loja de Tintas")
 metros =input("Digite a quantidade de metros quadrados a serem pintados: ")
 litros = metros/3
 
-PrecoL= 80.0
+precoL= 80.0
 capacidadeL = 18
 
 latas = litros / capacidadeL
 total = latas * precoL
+
+print
+print
