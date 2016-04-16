@@ -5,4 +5,4 @@
 #
 #
 #
-#Faça um programa que peça
+#Faça um programa que peça um valor e 
