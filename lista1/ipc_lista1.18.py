@@ -10,3 +10,4 @@
 arquivo = input("Informe o tamanho do arquivo para download (em MB): ")
 print
 velocidade = input("Informe a velocidade de sua internet (em Mbps): ")
+tempo = arquivo velocidade
