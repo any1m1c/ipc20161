@@ -12,5 +12,5 @@ metros =input("Digite a quantidade de metros quadrados a serem pintados: ")
 litros = metros/3
 
 PrecoL= 80.0
-
+capacidadeL = 18
 /
