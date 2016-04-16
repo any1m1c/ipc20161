@@ -5,5 +5,5 @@
 #
 #
 #
-#Faça um programa que peça o tamanho de um arquivo para download(em MB) e a velocidade de um link
+#Faça um programa que peça o tamanho de um arquivo para download(em MB) e a velocidade de um link de internet (em Mbps), calcule e informe o tempo aproximado
 #
