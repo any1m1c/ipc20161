@@ -9,4 +9,4 @@
 
 letra = raw_input("INforme uma letra: ")
 
-if (letra == "a"
+if (letra == "a" or letra
