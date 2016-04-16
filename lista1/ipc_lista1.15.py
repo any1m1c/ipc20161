@@ -6,7 +6,7 @@
 #
 #
 #
-QntHora =
+qHora =
 hT
 
 SalBruto = qHora
