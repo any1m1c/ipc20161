@@ -18,4 +18,4 @@ numReal = input("Dgite um numero real: )
 resultado1 = num1 * 2 * (num2 / 2)
 print "O produto do dobro do primeiro com a metdade do segundo = ", resultado1
 resultado2 = num1 * 3 + numReal
-print "A soma do triplo do primeiro com o terceiro = ",
+print "A soma do triplo do primeiro com o terceiro = ", resultado2
