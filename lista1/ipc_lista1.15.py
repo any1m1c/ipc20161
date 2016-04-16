@@ -10,3 +10,7 @@ qHora = input("Quanto você ganha por hora: ")
 hT = input("Quantas horas você trabalhou: ")
 
 SalBruto = qHora
+
+ir =
+inss =
+sindicato =
