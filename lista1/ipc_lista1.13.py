@@ -5,4 +5,4 @@
 #
 #
 #
-#Tendo como dados de entrada
+#Tendo como dados de entrada a altura e o sexo de uma pessoa
