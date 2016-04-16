@@ -5,5 +5,5 @@
 #
 #
 #
-#Faça um programa que peça o tamnho de um 
+#Faça um programa que peça o tamanho de um arquivo para download(em MB) e a velocidade de um link
 #
