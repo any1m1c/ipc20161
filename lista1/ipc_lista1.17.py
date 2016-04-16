@@ -33,4 +33,8 @@ if (QntLatas18 <= 0 or QntGaloes36 <= or QntGaloes < 0):
   Qntlatas18 = 1
   QntGaloes = 1
 
+PrecoLatas18 = QntLatas18 * 80
+PrecoGaloes36 = QntGaloes36 * 25
+PrecoLatas = QntLatas = QntLatas * 80
+PrecoGaloes = QntGaloes * 25
 /
