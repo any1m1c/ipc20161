@@ -7,6 +7,6 @@
 #
 #Faça um programa que leia três números e mostre o maior deles.
 
-number1 = int(input("Insira
-number2 = int(input("Insira
-number3 = int(input("Insira
+number1 = int(input("Insira numero
+number2 = int(input("Insira numero
+number3 = int(input("Insira numero
