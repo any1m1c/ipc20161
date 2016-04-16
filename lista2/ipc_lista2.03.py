@@ -6,7 +6,7 @@
 #
 #
 
-#Faça um programa que verifique se uma letra digitada é "F" ou "M"
+#
  
 
 sexo = raw_input("Informe o sexo F para Feminino e M para Masculino: ")
