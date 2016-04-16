@@ -20,6 +20,6 @@ else:
   resultado = (72.7*h) - 58
 
 if(peso > resultado):
-  print "Você está acima do peso,
+  print "Você está acima do peso, seu peso ideal e %.1f kg" % (resultado)
   
   
