@@ -6,3 +6,5 @@
 #
 #
 #
+QntHora =
+hT
