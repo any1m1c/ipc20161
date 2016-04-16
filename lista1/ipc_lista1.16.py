@@ -18,4 +18,4 @@ latas = litros / capacidadeL
 total = latas * precoL
 
 print"Você usara", latas, "latas de tinta"
-print""
+print"O preco total e de R$""
