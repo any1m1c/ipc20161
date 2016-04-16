@@ -13,10 +13,10 @@ num3 = int(input("Insira mais um numero: ")
 
 if num1>num2
     if num1>num3:
-        print ("O primeiro numero")
+        print ("O primeiro numero e maior")
 if num2>num1
     if num2>num3:
-        print ("O segundo numero")
+        print ("O segundo numero e maior")
 if num3>num1
     if num3>num2:
         print ("O terceiro numero")
