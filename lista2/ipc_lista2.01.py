@@ -9,3 +9,5 @@
 
 num1 = float(input("Informe um número: "))
 num2 = float(input("Informe outro número: "))
+
+if(num1
