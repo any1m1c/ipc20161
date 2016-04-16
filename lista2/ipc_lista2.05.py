@@ -16,3 +16,5 @@ media = (n1+n2)/2
 if media
 
 elif media 
+
+else:
