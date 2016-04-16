@@ -13,3 +13,4 @@ hT = input("Entre com a quantidade de horas trabalhadas no mês: )
 
 Salario = round(QntHora*hT,2)
 
+print
