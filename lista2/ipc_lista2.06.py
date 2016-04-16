@@ -19,4 +19,4 @@ if num2>num1
         print ("O segundo")
 if num3>num1
     if num3>num2:
-        print ("")
+        print ("O terceiro")
