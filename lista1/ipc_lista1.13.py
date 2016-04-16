@@ -16,7 +16,9 @@ peso - input("Qual seu peso: ")
 
 if ("F" == sexo):
   resultado = (62.1*h) - 44.7
-
 else:
   resultado = (72.7*h) - 58
+
+if(peso > resultado):  
+  
   
