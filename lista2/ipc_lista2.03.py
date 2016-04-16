@@ -8,7 +8,7 @@
 
 #Faça um programa que verifique se uma letra digitada é "F" ou "M"
  
-print 
+print "Conforme 
 sexo = raw_input("Informe seu sexo F para Feminino e M para Masculino: ")
 
 if (sexo == "M"):
