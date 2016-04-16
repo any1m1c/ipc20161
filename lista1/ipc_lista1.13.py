@@ -15,7 +15,7 @@ sexo = str(raw_input(Sexo M ou F: "))
 peso - input("Qual seu peso: ")
 
 if ("F" == sexo):
-  resultado = 9
+  resultado = (62.1*altura) - 44.7
 
 else:
   resultado = (72.7 * altura) - 58
