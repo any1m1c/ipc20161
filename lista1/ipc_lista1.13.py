@@ -1,3 +1,3 @@
 #ipc_lista1.13
-#professor: Jucimar Junior
-#Any Mendes Carvalho
+#Professor: Jucimar Junior
+#Any Mendes Carvalho - 1615310044
