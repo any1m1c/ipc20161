@@ -11,3 +11,6 @@
 #c- o terceiro elevado ao cubo.
 
 import math
+
+num1
+num2
