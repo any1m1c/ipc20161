@@ -10,6 +10,7 @@
     #comprar apenas latas de 18 litros;
     #comprar apenas galões de 3,6 litros;
     #misturar latas e galões, de forma que o preço seja o menor. Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, considere latas cheias. 
+
 import math
 
 #Calculo para verificar quantas latas/galoes de tintas sera necessarias e o valor delas
