@@ -12,6 +12,6 @@
 
 import math
 
-num1 = input
-num2 = input
-numReal = input
+num1 = input("Digite
+num2 = input("Digite
+numReal = input("Dgite
