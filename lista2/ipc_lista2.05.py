@@ -10,5 +10,5 @@
 #--A mensagem "Reprovado", se a média for menor que sete;
 #--A mensagem "Aprovado com Distincao", se a média for igual a dez.
 
-n1 = int(input("Insira
+n1 = int(input("Insira a primeira nota
 n2 = int(input
