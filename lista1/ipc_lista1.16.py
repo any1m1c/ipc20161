@@ -10,3 +10,7 @@
 print("Bem Vindo ao programa da loja de Tintas")
 metros =input("Digite a quantidade de metros quadrados a serem pintados: ")
 litros = metros/3
+
+PrecoL= 80.0
+
+/
