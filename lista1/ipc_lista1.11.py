@@ -5,4 +5,4 @@
 #
 #
 #
-#Faça um programa que peça 2 numeros
+#Faça um programa que peça 2 numeros inteiros e um numero real
