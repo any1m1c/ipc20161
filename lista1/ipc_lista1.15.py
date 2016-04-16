@@ -26,3 +26,5 @@ print "Valor dos impostos"
 print "-------------------------"
 print "IR: ",ir
 print "INSS: ",inss
+print"--------------------------"
+print""
