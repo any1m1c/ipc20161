@@ -9,4 +9,4 @@
 #Calcule e mostre o total do seu salário no referido mês.
 
 QntHora = input("Entre com o valor de seu rendimento por hora: ")
-hT
+hT = input
