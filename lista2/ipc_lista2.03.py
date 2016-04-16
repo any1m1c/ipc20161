@@ -15,6 +15,6 @@ if (sexo == "F"):
  print "Sexo Feminino. \n"
 else: 
     if (sexo == "M"):
-         print "Sexo Masculino."
+         print "Sexo Masculino. \n"
     else:
          print ("Sexo Invalido.")
