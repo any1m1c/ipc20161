@@ -9,4 +9,4 @@
 #Faça um programa que verifique se uma letra digitada é "F" ou "M"
  
 sexo 
-sexo = raw_input("Informe seu sexo F para Feminino
+sexo = raw_input("Informe seu sexo F para Feminino e m 
